@@ -1,0 +1,13 @@
+customer_id,city,age,income,visits,last_purchase_days,channel,spend
+C001,Hanoi,24,18000000,5,7,online,1250000
+C002,Ho Chi Minh City,31,32000000,9,2,store,2980000
+C003,Da Nang,,22000000,3,45,online,540000
+C004,Hanoi,45,51000000,12,5,store,6400000
+C005,Can Tho,28,not_available,2,90,online,0
+C006,Ho Chi Minh City,36,41000000,8,14,online,3700000
+C007,Hanoi,29,27000000,6,,store,1940000
+C008,Da Nang,52,60000000,15,1,store,8100000
+C009,Hanoi,41,45000000,11,20,online,4950000
+C010,Can Tho,23,16000000,1,120,online,180000
+C011,Ho Chi Minh City,34,38000000,7,10,store,3200000
+C012,Da Nang,38,43000000,10,3,online,4650000
